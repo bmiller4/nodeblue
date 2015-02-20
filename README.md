@@ -1,1 +1,2 @@
 # nodeblue
+#initial readme.
